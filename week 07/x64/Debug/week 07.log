@@ -1,0 +1,8 @@
+﻿  MyString.cpp
+C:\Users\ACER\Desktop\oop summer\week 07\MyString.cpp(32,45): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\ACER\Desktop\oop summer\week 07\MyString.cpp(39,45): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\ACER\Desktop\oop summer\week 07\MyString.cpp(106,20): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\ACER\Desktop\oop summer\week 07\MyString.cpp(142,37): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  week 07.cpp
+  Generating Code...
+  week 07.vcxproj -> C:\Users\ACER\Desktop\oop summer\week 07\x64\Debug\week 07.exe
