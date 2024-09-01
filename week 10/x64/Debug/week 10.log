@@ -1,0 +1,7 @@
+﻿  DynamicSet.cpp
+C:\Users\ACER\Desktop\oop summer\week 10\DynamicSet.cpp(90,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ACER\Desktop\oop summer\week 10\DynamicSet.cpp(101,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\oop summer\week 10\DynamicSet.cpp(112,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\oop summer\week 10\DynamicSet.cpp(117,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\oop summer\week 10\DynamicSet.cpp(127,20): warning C4018: '<': signed/unsigned mismatch
+  week 10.vcxproj -> C:\Users\ACER\Desktop\oop summer\week 10\x64\Debug\week 10.exe
