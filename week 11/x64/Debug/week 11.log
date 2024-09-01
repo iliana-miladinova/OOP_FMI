@@ -1,0 +1,10 @@
+﻿  SortedCollection.cpp
+C:\Users\ACER\Desktop\oop summer\week 11\SortedCollection.cpp(14,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\Desktop\oop summer\week 11\SortedCollection.cpp(16,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\Desktop\oop summer\week 11\SortedCollection.cpp(42,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\Desktop\oop summer\week 11\SortedCollection.cpp(44,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\Desktop\oop summer\week 11\SortedCollection.cpp(68,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  week 11.cpp
+C:\Users\ACER\Desktop\oop summer\week 11\week 11.cpp(130,22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  week 11.vcxproj -> C:\Users\ACER\Desktop\oop summer\week 11\x64\Debug\week 11.exe
