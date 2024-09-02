@@ -1,0 +1,12 @@
+﻿  Bishop.cpp
+  ChessBoard.cpp
+  FigureFactory.cpp
+  King.cpp
+  Knight.cpp
+  Pawn.cpp
+  Queen.cpp
+  Rook.cpp
+  week 11 chess.cpp
+  Generating Code...
+C:\Users\ACER\Desktop\oop summer\week 11 chess\FigureFactory.cpp(26): warning C4715: 'FigureFactory::createFigure': not all control paths return a value
+  week 11 chess.vcxproj -> C:\Users\ACER\Desktop\oop summer\week 11 chess\x64\Debug\week 11 chess.exe
