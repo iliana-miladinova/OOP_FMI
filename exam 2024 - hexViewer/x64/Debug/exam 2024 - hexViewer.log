@@ -1,0 +1,9 @@
+﻿  exam 2024 - hexViewer.cpp
+  Source.cpp
+C:\Users\ACER\Desktop\oop summer\exam 2024 - hexViewer\Source.cpp(77,16): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\ACER\Desktop\oop summer\exam 2024 - hexViewer\Source.cpp(165,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\oop summer\exam 2024 - hexViewer\Source.cpp(180,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\oop summer\exam 2024 - hexViewer\Source.cpp(258,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\oop summer\exam 2024 - hexViewer\Source.cpp(276,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  exam 2024 - hexViewer.vcxproj -> C:\Users\ACER\Desktop\oop summer\exam 2024 - hexViewer\x64\Debug\exam 2024 - hexViewer.exe
