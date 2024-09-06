@@ -1,0 +1,4 @@
+﻿  ThreeNumbersWrapperCondition.cpp
+C:\Users\ACER\Desktop\oop summer\first test task Three Numbers Wrapper\ThreeNumbersWrapperCondition.cpp(161,10): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\Desktop\oop summer\first test task Three Numbers Wrapper\ThreeNumbersWrapperCondition.cpp(173,9): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  first test task Three Numbers Wrapper.vcxproj -> C:\Users\ACER\Desktop\oop summer\first test task Three Numbers Wrapper\x64\Debug\first test task Three Numbers Wrapper.exe
